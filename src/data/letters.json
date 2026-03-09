@@ -1,0 +1,210 @@
+[
+  {
+    "letter": "A",
+    "word": "Apple",
+    "emoji": "🍎",
+    "color": "bg-red-100",
+    "textColor": "text-red-600",
+    "story": "Hi! I'm Apple! A is for Apple! I grow on trees and I am bright red. Crunch crunch! People love to eat me. I am juicy and sweet. Can you say Apple?"
+  },
+  {
+    "letter": "B",
+    "word": "Ball",
+    "emoji": "⚽",
+    "color": "bg-blue-100",
+    "textColor": "text-blue-600",
+    "story": "Hi! I'm Ball! B is for Ball! I am round and bouncy. Boing, boing, boing! You can throw me, catch me, and kick me in the grass. Let's play together! Can you say Ball?"
+  },
+  {
+    "letter": "C",
+    "word": "Cat",
+    "emoji": "🐱",
+    "color": "bg-orange-100",
+    "textColor": "text-orange-600",
+    "story": "Hi! I'm Cat! C is for Cat! I have soft fur and a long tail. Meow, meow! I love to purr when you pet me, and I enjoy taking warm naps in the sun. Can you say Cat?"
+  },
+  {
+    "letter": "D",
+    "word": "Dog",
+    "emoji": "🐶",
+    "color": "bg-amber-100",
+    "textColor": "text-amber-700",
+    "story": "Hi! I'm Dog! D is for Dog! I am your best friend. Woof, woof! I love to wag my tail and run around the yard to fetch sticks. Let's go for a walk! Can you say Dog?"
+  },
+  {
+    "letter": "E",
+    "word": "Elephant",
+    "emoji": "🐘",
+    "color": "bg-slate-200",
+    "textColor": "text-slate-700",
+    "story": "Hi! I'm Elephant! E is for Elephant! I am very big and I have a long trunk. Stomp, stomp! I use my trunk to drink water and give myself a shower. Can you say Elephant?"
+  },
+  {
+    "letter": "F",
+    "word": "Fish",
+    "emoji": "🐟",
+    "color": "bg-cyan-100",
+    "textColor": "text-cyan-600",
+    "story": "Hi! I'm Fish! F is for Fish! I live in the water and I love to swim. Swish, swish! I have shiny scales and little fins that help me glide through the waves. Can you say Fish?"
+  },
+  {
+    "letter": "G",
+    "word": "Grapes",
+    "emoji": "🍇",
+    "color": "bg-purple-100",
+    "textColor": "text-purple-600",
+    "story": "Hi! I'm Grapes! G is for Grapes! We grow on vines in big purple and green bunches. Pop, pop! We are a yummy, sweet, and healthy snack for you. Can you say Grapes?"
+  },
+  {
+    "letter": "H",
+    "word": "Hat",
+    "emoji": "🎩",
+    "color": "bg-zinc-200",
+    "textColor": "text-zinc-700",
+    "story": "Hi! I'm Hat! H is for Hat! I sit right on top of your head. Ta-da! I keep you warm in the winter and protect your eyes from the bright sun. Can you say Hat?"
+  },
+  {
+    "letter": "I",
+    "word": "Ice Cream",
+    "emoji": "🍦",
+    "color": "bg-pink-100",
+    "textColor": "text-pink-600",
+    "story": "Hi! I'm Ice Cream! I is for Ice Cream! I am cold, sweet, and delicious. Lick, lick! I come in many flavors like chocolate and vanilla, sitting on a crunchy cone. Can you say Ice Cream?"
+  },
+  {
+    "letter": "J",
+    "word": "Juice",
+    "emoji": "🧃",
+    "color": "bg-orange-200",
+    "textColor": "text-orange-700",
+    "story": "Hi! I'm Juice! J is for Juice! I am a yummy drink made from fresh fruits. Slurp, slurp! I am sweet and refreshing, especially on a hot summer day. Can you say Juice?"
+  },
+  {
+    "letter": "K",
+    "word": "Kite",
+    "emoji": "🪁",
+    "color": "bg-rose-100",
+    "textColor": "text-rose-600",
+    "story": "Hi! I'm Kite! K is for Kite! I love to fly high up in the sky. Whoosh, whoosh! When the wind blows, my colorful tail dances in the clouds. Can you say Kite?"
+  },
+  {
+    "letter": "L",
+    "word": "Lion",
+    "emoji": "🦁",
+    "color": "bg-yellow-100",
+    "textColor": "text-yellow-600",
+    "story": "Hi! I'm Lion! L is for Lion! I am the king of the jungle with a big, fluffy mane. Roar! I am very strong and I love to rest in the tall grass. Can you say Lion?"
+  },
+  {
+    "letter": "M",
+    "word": "Moon",
+    "emoji": "🌙",
+    "color": "bg-indigo-100",
+    "textColor": "text-indigo-600",
+    "story": "Hi! I'm Moon! M is for Moon! I shine bright in the dark night sky. Twinkle, twinkle! I watch over you while you sleep and have sweet dreams. Can you say Moon?"
+  },
+  {
+    "letter": "N",
+    "word": "Nest",
+    "emoji": "🪹",
+    "color": "bg-stone-200",
+    "textColor": "text-stone-700",
+    "story": "Hi! I'm Nest! N is for Nest! I am a cozy little home made of twigs and leaves. Chirp, chirp! Mother birds build me to keep their tiny eggs safe and warm. Can you say Nest?"
+  },
+  {
+    "letter": "O",
+    "word": "Orange",
+    "emoji": "🍊",
+    "color": "bg-orange-100",
+    "textColor": "text-orange-600",
+    "story": "Hi! I'm Orange! O is for Orange! I am round, bright, and the same color as my name! Squeeze, squeeze! I am full of sweet juice that makes you strong. Can you say Orange?"
+  },
+  {
+    "letter": "P",
+    "word": "Puppy",
+    "emoji": "🐕",
+    "color": "bg-amber-200",
+    "textColor": "text-amber-800",
+    "story": "Hi! I'm Puppy! P is for Puppy! I am a baby dog with soft, floppy ears. Yip, yip! I love to play with my toys and give you lots of happy kisses. Can you say Puppy?"
+  },
+  {
+    "letter": "Q",
+    "word": "Queen",
+    "emoji": "👑",
+    "color": "bg-yellow-200",
+    "textColor": "text-yellow-700",
+    "story": "Hi! I'm Queen! Q is for Queen! I wear a sparkly gold crown on my head. Hello there! I live in a big, beautiful castle and wear lovely dresses. Can you say Queen?"
+  },
+  {
+    "letter": "R",
+    "word": "Rabbit",
+    "emoji": "🐰",
+    "color": "bg-slate-100",
+    "textColor": "text-slate-600",
+    "story": "Hi! I'm Rabbit! R is for Rabbit! I have long ears and a fluffy little tail. Hop, hop, hop! I love to eat crunchy orange carrots and jump in the meadow. Can you say Rabbit?"
+  },
+  {
+    "letter": "S",
+    "word": "Sun",
+    "emoji": "☀️",
+    "color": "bg-yellow-100",
+    "textColor": "text-yellow-600",
+    "story": "Hi! I'm Sun! S is for Sun! I am a giant, glowing star high up in the sky. Shine, shine! I give you light and keep you nice and warm all day long. Can you say Sun?"
+  },
+  {
+    "letter": "T",
+    "word": "Tree",
+    "emoji": "🌳",
+    "color": "bg-green-100",
+    "textColor": "text-green-700",
+    "story": "Hi! I'm Tree! T is for Tree! I have a tall brown trunk and lots of green leaves. Rustle, rustle! Birds love to sing in my branches, and I give you cool shade. Can you say Tree?"
+  },
+  {
+    "letter": "U",
+    "word": "Umbrella",
+    "emoji": "☂️",
+    "color": "bg-violet-100",
+    "textColor": "text-violet-600",
+    "story": "Hi! I'm Umbrella! U is for Umbrella! I open up wide to keep you dry. Pitter, patter! When the rain falls down, you can hold me over your head. Can you say Umbrella?"
+  },
+  {
+    "letter": "V",
+    "word": "Van",
+    "emoji": "🚐",
+    "color": "bg-teal-100",
+    "textColor": "text-teal-700",
+    "story": "Hi! I'm Van! V is for Van! I am a big car with lots of room inside. Vroom, vroom! I can take you and all your friends on a fun road trip. Can you say Van?"
+  },
+  {
+    "letter": "W",
+    "word": "Whale",
+    "emoji": "🐳",
+    "color": "bg-sky-100",
+    "textColor": "text-sky-600",
+    "story": "Hi! I'm Whale! W is for Whale! I am the biggest animal in the ocean. Splash, splash! I love to swim deep in the sea and blow water high into the air. Can you say Whale?"
+  },
+  {
+    "letter": "X",
+    "word": "Xylophone",
+    "emoji": "🎹",
+    "color": "bg-fuchsia-100",
+    "textColor": "text-fuchsia-600",
+    "story": "Hi! I'm Xylophone! X is for Xylophone! I am a colorful musical instrument. Ding, ding, ding! You can tap my bright keys with a mallet to play a happy song. Can you say Xylophone?"
+  },
+  {
+    "letter": "Y",
+    "word": "Yo-yo",
+    "emoji": "🪀",
+    "color": "bg-red-200",
+    "textColor": "text-red-700",
+    "story": "Hi! I'm Yo-yo! Y is for Yo-yo! I am a fun toy on a long string. Spin, spin! You can make me go down and come right back up to your hand. Can you say Yo-yo?"
+  },
+  {
+    "letter": "Z",
+    "word": "Zebra",
+    "emoji": "🦓",
+    "color": "bg-neutral-200",
+    "textColor": "text-neutral-700",
+    "story": "Hi! I'm Zebra! Z is for Zebra! Look at my cool stripes! Black and white, black and white. I love to run fast in the tall grass with my friends. Can you say Zebra?"
+  }
+]

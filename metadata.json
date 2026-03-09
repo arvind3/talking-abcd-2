@@ -1,0 +1,5 @@
+{
+  "name": "SIPs - Self-Describing ABCD",
+  "description": "An interactive, self-describing alphabet learning app for toddlers using the Web Speech API.",
+  "requestFramePermissions": []
+}
